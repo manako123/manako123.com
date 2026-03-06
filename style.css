@@ -10,7 +10,6 @@ cursor: pointer;
 
 .btn:hover {
 background-color: #14a4d4;
-font-size: 15px;
 }
 
 .footer{
@@ -31,4 +30,5 @@ width: 200px;
 height: 25px;
 position: relative;
 left: 650px;
+
 }
